@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>L&#039;Humanité</title>
+	<atom:link href="https://www.humanite.fr/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.humanite.fr</link>
+	<description>Actualités, informations, débats et décryptages d’un media indépendant</description>
+	<lastBuildDate>Sun, 04 Oct 2026 07:59:49 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.9</generator>
+
+<image>
+	<url>https://www.humanite.fr/wp-content/uploads/2024/07/H_Humanite_Rond.svg?w=32</url>
+	<title>L&#039;Humanité</title>
+	<link>https://www.humanite.fr</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">216345055</site>	<item>
+		<title>« Notre salut » : la collaboration comme vous ne l&#8217;avez jamais vue</title>
+		<link>https://www.humanite.fr/culture-et-savoir/cinema/notre-salut-la-collaboration-comme-vous-ne-lavez-jamais-vue</link>
+		
+		<dc:creator><![CDATA[Cyprien Caddeo]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2026 10:01:00 +0000</pubDate>
+				<category><![CDATA[Culture et savoir]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3887189</guid>
+
+					<description><![CDATA[En s’appuyant sur la correspondance de ses arrière-grands-parents sous l’Occupation, Emmanuel Marre pénètre les rouages du régime de Vichy dans un film qui provoque le malaise sans jamais se complaire dans une reconstitution esthétisante. Dans le rôle d’Henri Marre, fonctionnaire insaisissable, Swann Arlaud est impressionnant.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3887189</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/10/Notre-salut.webp?w=1200" medium="image"/>
+<surtitre>Vidéo</surtitre>
+	</item>
+		<item>
+		<title>« Ma petite sœur Julia, morte d’un cancer du pancréas à 24 ans » : dans l&#8217;Eure, malades, paysans et citoyens manifestent contre Syngenta, le géant des pesticides</title>
+		<link>https://www.humanite.fr/environnement/agriculture/ma-petite-soeur-julia-morte-dun-cancer-du-pancreas-a-24-ans-dans-leure-malades-paysans-et-citoyens-manifestent-contre-syngenta-le-geant-des-pesticides</link>
+		
+		<dc:creator><![CDATA[Marie Toulgoat]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2026 07:06:22 +0000</pubDate>
+				<category><![CDATA[Environnement]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3888742</guid>
+
+					<description><![CDATA[15 000 personnes ont manifesté à Gaillon, dans l’Eure, ce samedi 3 octobre. À l’appel de quatre organisations, des malades, paysans, scientifiques, militants écologistes et soutiens ont convergé vers l’usine de Syngenta pour exiger l’interdiction des pesticides.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3888742</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-09.01.25.jpeg?w=1200" medium="image"/>
+<surtitre>Reportage</surtitre>
+	</item>
+		<item>
+		<title>Élections du 4 octobre au Brésil : « L’espoir d’une victoire de Lula au premier tour est revenu en force »</title>
+		<link>https://www.humanite.fr/monde/amerique-latine/elections-du-4-octobre-au-bresil-lespoir-dune-victoire-de-lula-au-premier-tour-est-revenu-en-force</link>
+		
+		<dc:creator><![CDATA[Luis Reygada]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 16:28:15 +0000</pubDate>
+				<category><![CDATA[Monde]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3888664</guid>
+
+					<description><![CDATA[À la veille des mega-élections de ce dimanche, alors que les sondages tendent à favoriser le président-candidat Lula, la possibilité d’une victoire sans deuxième tour devient envisageable dans le camp progressiste. «&nbsp;Personne ne peut nier que notre campagne a pris de l’ampleur&nbsp;», explique Valter Pomar, responsable de la coopération internationale à la Fondation Perseu Abramo.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3888664</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/10/REA11965793_pr.jpg?w=799" medium="image"/>
+<surtitre>Entretien</surtitre>
+	</item>
+		<item>
+		<title>Manifestations géantes en Espagne : après le rejet des mesures sur le logement, Pedro Sanchez évoque des législatives anticipées</title>
+		<link>https://www.humanite.fr/monde/espagne/manifestations-geantes-en-espagne-apres-le-rejet-des-mesures-sur-le-logement-pedro-sanchez-evoque-des-legislatives-anticipees</link>
+		
+		<dc:creator><![CDATA[Benjamin König]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 15:52:59 +0000</pubDate>
+				<category><![CDATA[Monde]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3888615</guid>
+
+					<description><![CDATA[Des centaines de milliers de personnes ont défilé ce samedi dans les rues des grandes villes d’Espagne pour protester contre la crise du logement. À Madrid, le mot d’ordre est désormais à la grève générale. La contestation a ouvert une crise politique&nbsp;: Pedro Sanchez, qui a vu deux textes sur le sujet rejetés vendredi, pourrait convoquer des législatives anticipées.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3888615</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/10/000_D2648NR.jpg?w=1024" medium="image"/>
+<surtitre>Décryptage</surtitre>
+	</item>
+		<item>
+		<title>C’est quoi Renouveau lycéen, ce prétendu syndicat présidé par un communicant macroniste ?</title>
+		<link>https://www.humanite.fr/politique/gabriel-attal/cest-quoi-renouveau-lyceen-ce-pretendu-syndicat-preside-par-un-communicant-macroniste</link>
+		
+		<dc:creator><![CDATA[Cyprien Caddeo]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 15:07:00 +0000</pubDate>
+				<category><![CDATA[Politique]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3888574</guid>
+
+					<description><![CDATA[Présenté comme une organisation lycéenne sur les plateaux télé et reçu en tant que tel au ministère de l’Éducation nationale, le « syndicat » est accusé par la gauche d’être une coquille vide. Son président, Nathanaël Combary, est consultant dans une entreprise fondée par l’ex-conseiller de Gabriel Attal, dont il admit soutenir la campagne.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3888574</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/10/000_D22M77F.jpg?w=1024" medium="image"/>
+<surtitre>Analyse</surtitre>
+	</item>
+		<item>
+		<title>L’humour pour combattre l’extrême droite (Ft. Kevin Razy &#038; Lou Trotignon) – Fête de l&#8217;Huma 2026</title>
+		<link>https://www.humanite.fr/culture-et-savoir/extreme-droite/lhumour-pour-combattre-lextreme-droite-ft-kevin-razy-lou-trotignon-fete-de-lhuma-2026</link>
+		
+		<dc:creator><![CDATA[Diane Bonneau,Pierre-Antoine Valade]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[Culture et savoir]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3887233</guid>
+
+					<description><![CDATA[Comment militer tout en faisant rire ?  @valadistaoff  et Diane Bonneau ont posé la question (et bien d'autres) à Kevin Razy et Lou Trotignon lors de la Fête de l'Humanité 2026. Un plateau coanimé par CaminoTv !]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3887233</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/10/HUMOUR.webp?w=1200" medium="image"/>
+<surtitre>Vidéo</surtitre>
+	</item>
+		<item>
+		<title>« Moins de RN, plus de lesbiennes » : à la Marche des fiertés, des dizaines de milliers de personnes défilent dans Paris, inquiètes pour 2027</title>
+		<link>https://www.humanite.fr/societe/extreme-droite/marche-des-fiertes-2027-des-dizaines-de-milliers-de-personnes-defilent-dans-paris-inquietes-des-prochaines-elections</link>
+		
+		<dc:creator><![CDATA[La rédaction avec AFP]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 14:53:20 +0000</pubDate>
+				<category><![CDATA[Société]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3888598</guid>
+
+					<description><![CDATA[Reportée en octobre du fait de la canicule, la manifestation festive a illustré l’inquiétude des personnes LGBT+ face au risque de victoire de l’extrême droite en mai 2027.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3888598</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/10/000_D2682YG-1.jpg?w=1024" medium="image"/>
+<surtitre>Actu</surtitre>
+	</item>
+		<item>
+		<title>Affaire Bardella : après deux jours de silence, Marine Le Pen fait du Trump</title>
+		<link>https://www.humanite.fr/politique/jordan-bardella/marine-le-pen-va-t-elle-lacher-bardella-au-rn-la-nuit-des-longs-couteaux</link>
+		
+		<dc:creator><![CDATA[Maud Vergnol]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 14:48:59 +0000</pubDate>
+				<category><![CDATA[Politique]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3888571</guid>
+
+					<description><![CDATA[Son silence aura duré deux jours. Après la révélation jeudi par Mediapart des documents prouvant la véracité des écrits antisémites de Jordan Bardella, Marine Le&#160;Pen a fini par sortir de son&#160;bunker, samedi soir, pour apporter «&#160;tout son soutien&#160;» à son poulain, préférant finalement la fuite en avant dans le mensonge qu’une mise au ban de celui…]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3888571</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2024/02/Vignette_2024_editorial_maud.png?w=1200" medium="image"/>
+<surtitre>Éditorial</surtitre>
+	</item>
+		<item>
+		<title>Les souffrances du jeune Orlando vues par Haendel</title>
+		<link>https://www.humanite.fr/culture-et-savoir/opera/les-souffrances-du-jeune-orlando-vues-par-haendel</link>
+		
+		<dc:creator><![CDATA[Pierre Barbancey]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 13:56:02 +0000</pubDate>
+				<category><![CDATA[Culture et savoir]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3886956</guid>
+
+					<description><![CDATA[L’Opéra de Nice propose une œuvre lyrique des plus singulières, entre réalité et vertige intérieur. L’opéra seria revisité où le drame humain prend le pas sur l’héroïsme et la mythologie. Une production servie par une distribution, une mise en scène et une direction musicale à la hauteur de l’histoire.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3886956</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/10/web-Orlando.jpg?w=1200" medium="image"/>
+<surtitre>Opéra</surtitre>
+	</item>
+		<item>
+		<title>Inde : la jeunesse mobilisée pour protester contre les manipulations électorales</title>
+		<link>https://www.humanite.fr/monde/extreme-droite/inde-la-jeunesse-mobilisee-pour-protester-contre-les-manipulations-electorales</link>
+		
+		<dc:creator><![CDATA[Benjamin König]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 13:09:42 +0000</pubDate>
+				<category><![CDATA[Monde]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3888505</guid>
+
+					<description><![CDATA[Plusieurs syndicats étudiants et partis de gauche ont lancé un appel pour protester contre une décision de la Commission électorale de radier des dizaines de millions d’Indiens des listes, au profit du parti au pouvoir de Narendra Modi. Les arrestations se multiplient, mais la jeunesse indienne tient tête.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3888505</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/10/REA11974654_pr-edited.jpg?w=800" medium="image"/>
+<surtitre>Analyse</surtitre>
+	</item>
+		<item>
+		<title>Appel aux juifs-ves de France : en 2027, quelles places pour nous ?</title>
+		<link>https://www.humanite.fr/politique/antisemitisme/appel-aux-juifs-ves-de-france-2027-quelles-places-pour-nous</link>
+		
+		<dc:creator><![CDATA[Tribunes]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 12:19:57 +0000</pubDate>
+				<category><![CDATA[Politique]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3887697</guid>
+
+					<description><![CDATA[Inquiètes de la montée de l’extrême droite, de l’antisémitisme et l’islamophobie, des personnalités juives invitent à s’engager en faveur d’une gauche de rupture dans le cadre de la prochaine élection présidentielle.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3887697</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/07/Vignette_2024_tribune_97bbf4_cc15d3.webp?w=1023" medium="image"/>
+<surtitre>Tribune</surtitre>
+	</item>
+		<item>
+		<title>« Procurez-vous un excellent détecteur de conneries, et apprenez à vous en servir… »</title>
+		<link>https://www.humanite.fr/culture-et-savoir/intelligence-artificielle/procurez-vous-un-excellent-detecteur-de-conneries-et-apprenez-a-vous-en-servir</link>
+		
+		<dc:creator><![CDATA[Tribunes]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 12:09:56 +0000</pubDate>
+				<category><![CDATA[Culture et savoir]]></category>
+		<category><![CDATA[societe]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3887744</guid>
+
+					<description><![CDATA[Du Goncourt aux plateformes musicales, l’IA relance une vieille question : qu’est-ce qu’une œuvre ? Plutôt que d’opposer l’humain à la machine, Samuel Lequette, auteur-compositeur-interprète et professeur de lettres, propose de juger les œuvres à ce qu’elles adressent. Un jugement qu’aucun logiciel ne remplace, et qui s’apprend.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3887744</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/09/Vignette_2024_tribune_97bbf4.webp?w=1023" medium="image"/>
+<surtitre>Tribune</surtitre>
+	</item>
+		<item>
+		<title>Démocratie ou barbarie : le Brésil qui rêve d’être heureux est appelé aux urnes !</title>
+		<link>https://www.humanite.fr/monde/economie/democratie-ou-barbarie-le-bresil-qui-reve-detre-heureux-est-appele-aux-urnes</link>
+		
+		<dc:creator><![CDATA[Tribunes]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 12:06:20 +0000</pubDate>
+				<category><![CDATA[Monde]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3887967</guid>
+
+					<description><![CDATA[David de Oliveira Monteiro, chercheur sur la Cour interaméricaine des droits de l’homme et Avocat, pointe le bilan positif en matière d’emploi, de salaire, de lutte contre l’insécurité du président Lula et insiste sur l’enjeu démocratique de la présidentielle.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3887967</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/09/Vignette_2024_tribune_97bbf4.webp?w=1023" medium="image"/>
+<surtitre>Tribune</surtitre>
+	</item>
+		<item>
+		<title>Mais qu’est-ce qu’on attend ?</title>
+		<link>https://www.humanite.fr/politique/gouvernement/mais-quest-ce-quon-attend</link>
+		
+		<dc:creator><![CDATA[Tribunes]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 12:02:52 +0000</pubDate>
+				<category><![CDATA[Politique]]></category>
+		<category><![CDATA[societe]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3888367</guid>
+
+					<description><![CDATA[Poète et écrivain, Julien Delmaire, dénonce la répression violente exercée par le gouvernement contre les lycéens et lycéennes. Il appelle à s’interposer pour les protéger et exprimer sa solidarité vis-à-vis de leur mobilisation en faveur de la démocratie et de l’avenir de la société.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3888367</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/09/Vignette_2024_tribune_97bbf4.webp?w=1023" medium="image"/>
+<surtitre>Tribune</surtitre>
+	</item>
+		<item>
+		<title>L’essence de la colère : quand l’injustice sociale met le feu aux poudres</title>
+		<link>https://www.humanite.fr/social-et-economie/carburants/lessence-de-la-colere-quand-linjustice-sociale-met-le-feu-aux-poudres</link>
+		
+		<dc:creator><![CDATA[Youlie Yamamoto]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 11:42:29 +0000</pubDate>
+				<category><![CDATA[Social et Économie]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3875578</guid>
+
+					<description><![CDATA[Par Youlie Yamamoto, porte-parole d’Attac et cofondatrice des Rosies.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3875578</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/08/chronique_Youlie-Yamamoto.png?w=1200" medium="image"/>
+<surtitre>Chronique</surtitre>
+	</item>
+		<item>
+		<title>Découverts bancaires : ce qui va changer au 20 novembre</title>
+		<link>https://www.humanite.fr/vie-quotidienne/vos-droits/decouverts-bancaires-ce-qui-va-changer-au-20-novembre</link>
+		
+		<dc:creator><![CDATA[Mélanie Mermoz]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 10:23:42 +0000</pubDate>
+				<category><![CDATA[Vie quotidienne]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3866213</guid>
+
+					<description><![CDATA[À partir du 20 novembre, les découverts seront davantage encadrés et les banques tenues d’étudier la solvabilité de leurs clients avant de leur accorder une autorisation de découvert, même en dessous de 200 euros. Cette obligation, issue d’une directive européenne, impose également aux prêteurs une meilleure information sur les frais de crédit. Que Choisir salue une « avancée de la protection » des usagers.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3866213</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/09/iStock-2207273382-1.jpg?w=1200" medium="image"/>
+<surtitre>Vos droits</surtitre>
+	</item>
+		<item>
+		<title>Élections du 4 octobre au Brésil : « Le capitalisme a besoin de nos ressources pour relancer un nouveau cycle de développement extractiviste »</title>
+		<link>https://www.humanite.fr/monde/amerique-latine/elections-du-4-octobre-au-bresil-le-capitalisme-a-besoin-de-nos-ressources-pour-relancer-un-nouveau-cycle-de-developpement-extractiviste</link>
+		
+		<dc:creator><![CDATA[Luis Reygada]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 10:14:02 +0000</pubDate>
+				<category><![CDATA[Monde]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3888110</guid>
+
+					<description><![CDATA[Les ingérences des États-Unis se multiplient à la veille de la méga-élection de ce dimanche 4 octobre. « Le contexte est très difficile », reconnaît Monica Valente, coordinatrice des mobilisations régionales de la campagne du président Lula. Les sondages placent toutefois le président-candidat Lula en tête devant le candidat d'extrême droite, Flavio Bolsonaro. Entretien. ]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3888110</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/10/REA11967914_pr.jpg?w=799" medium="image"/>
+<surtitre>Entretien</surtitre>
+	</item>
+		<item>
+		<title>Septembre noir au Rassemblement national : une rentrée ratée en 10 dates</title>
+		<link>https://www.humanite.fr/politique/antisemitisme/septembre-noir-au-rassemblement-national-une-rentree-ratee-en-10-dates</link>
+		
+		<dc:creator><![CDATA[Florent Le Du,Théo Bourrieau]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 10:01:00 +0000</pubDate>
+				<category><![CDATA[Politique]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3887204</guid>
+
+					<description><![CDATA[Un mois entamé par une islamophobie décomplexée et achevé par un antisémitisme non assumé. De l’interdiction du port du voile aux écrits de Jordan Bardella révélés par Mediapart, en passant par le racisme crasse du policier municipal de Carcassonne, septembre aura rappelé l’ADN profond du parti à la flamme.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3887204</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/10/RN.webp?w=1200" medium="image"/>
+<surtitre>Vidéo</surtitre>
+	</item>
+		<item>
+		<title>Vol FlyDubai dérouté : le co-pilote avait bien l’intention de commettre un « acte terroriste »</title>
+		<link>https://www.humanite.fr/monde/dubai/vol-flydubai-deroute-le-co-pilote-avait-bien-lintention-de-commettre-un-acte-terroriste</link>
+		
+		<dc:creator><![CDATA[La rédaction avec AFP]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 09:58:52 +0000</pubDate>
+				<category><![CDATA[Monde]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3888376</guid>
+
+					<description><![CDATA[Le procureur général des Émirats arabes unis a livré les premiers éléments de l’enquête, qui indiquent que le co-pilote a attaqué son collègue pour prendre les commandes de l’avion. Selon plusieurs médias, cet homme originaire d’Oman se serait radicalisé en Syrie.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3888376</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/10/REA11970155_pr.jpg?w=800" medium="image"/>
+<surtitre>Actu</surtitre>
+	</item>
+		<item>
+		<title>Licenciement d’une infirmière pour avoir porté un calot : l’AP-HP en difficulté devant le tribunal administratif</title>
+		<link>https://www.humanite.fr/social-et-economie/ap-hp/licenciement-dune-infirmiere-pour-avoir-porte-un-calot-lap-hp-en-difficulte-devant-le-tribunal-administratif</link>
+		
+		<dc:creator><![CDATA[Hélène May]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 09:50:13 +0000</pubDate>
+				<category><![CDATA[Social et Économie]]></category>
+		<guid isPermaLink="false">https://www.humanite.fr/?p=3888258</guid>
+
+					<description><![CDATA[Lors de l’audience devant le tribunal administratif, ce 2&nbsp;octobre, la directrice du secteur hospitalier public d’Île-de-France n’est pas parvenue à justifier le caractère «&nbsp;proportionné&nbsp;» du licenciement d’une infirmière pour avoir porté un calot. Le manque d’hygiène, motif invoqué pour le justifier, a lui été balayé.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3888258</post-id><media:content url="https://www.humanite.fr/wp-content/uploads/2026/10/REA11941727_pr.jpg?w=800" medium="image"/>
+<surtitre>En lutte</surtitre>
+	</item>
+	</channel>
+</rss>
